@@ -1,3 +1,4 @@
 # This is our first file
 
-Let's do it! Right?
+It's better to wait.
+Now
